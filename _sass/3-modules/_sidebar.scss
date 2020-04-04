@@ -111,20 +111,18 @@
     display: inline-block;
     margin: 3px;
   }
-  .social-profiles-link {
-    display: inline-block;
-    line-height: 16px;
-    padding: 8px 10px;
-    border: 1px solid $border-color;
-    border-radius: $global-radius;
-    color: $border-color;
-    &:hover {
-      border-color: $primary-color;
-      color: $primary-color;
-    }
-    i {
-      font-size: 18px;
-    }
+}
+.social-profiles-link {
+  display: inline-block;
+  line-height: 16px;
+  padding: 8px 10px;
+  color: $border-color;
+  &:hover {
+    border-color: $primary-color;
+    color: $primary-color;
+  }
+  i {
+    font-size: 30px;
   }
 }
 
