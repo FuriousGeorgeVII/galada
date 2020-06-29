@@ -5,7 +5,6 @@ date:   2019-06-23 16:03:30 +0300
 image:  keystone.jpg
 tags:   Keystone
 ---
-Work Education
 
 While spending a year in rural Queensland I had the opportunity to get some real-world education through Keystone Architects. I had met with the founder of Keystone, Marian Graham, who is the principle architect of the firm and a Fellow of the Royal Australian Institute of Architects - she allowed me to follow the life cycle of a project that had just began construction. 
 The project was multistorey classrooms extending from an existing building at a Christian college.
