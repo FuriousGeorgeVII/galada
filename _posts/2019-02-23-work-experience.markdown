@@ -14,8 +14,8 @@ Drafting Provisional Plans for Costing
 Existing Layout
 ![]({{site.baseurl}}/img/existing.jpg)
 
-- Drafted of various floorplans taking into consideration most efficient and effective use of space and existing elements (doors, plumbing, etc.) to minimise costs.
-- Discussed with client their preferred layout out of initial floorplans and noted any feedback and must have elements that the client desired.
+- Drafted various floorplans taking into consideration most efficient and effective use of space and existing elements (doors, plumbing, etc.) to minimise costs.
+- Discussed with client their preferred layout out of initial floorplans and noted any feedback and 'must have' elements that the client desired.
 - Revised and drafted up 2 of the options in Autodesk Revit® adhering to AS 1428.1-2009 for disability access and mobility.
 
 Revised Models
