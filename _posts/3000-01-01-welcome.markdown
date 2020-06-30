@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "SITE UNDER CONSTRUCTION"
+date:   3000-01-01 18:05:55 +0300
+image:  welcome.jpg
+tags:   [Welcome!]
+---
+
