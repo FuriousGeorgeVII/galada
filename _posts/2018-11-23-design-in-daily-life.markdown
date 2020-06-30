@@ -12,11 +12,14 @@ I am trying to improve my skills in other mediums as well, especially watercolou
 
 Pallet art for my French Mother
 ![]({{site.baseurl}}/img/french1.jpg)
+
 ![]({{site.baseurl}}/img/french2.jpg)
+
 ![]({{site.baseurl}}/img/french3.jpg)
 
 Pallet art for my British Father
 ![]({{site.baseurl}}/img/eng1.jpg)
+
 ![]({{site.baseurl}}/img/eng2.jpg)
 
 Christmas Cards made in Photoshop over the years
@@ -29,10 +32,14 @@ Christmas Cards made in Photoshop over the years
 
 2016
 ![]({{site.baseurl}}/img/20161.jpg)
+
 ![]({{site.baseurl}}/img/20162.jpg)
+
 ![]({{site.baseurl}}/img/20163.jpg)
 
 2015
 ![]({{site.baseurl}}/img/20151.jpg)
+
 ![]({{site.baseurl}}/img/20152.jpg)
+
 ![]({{site.baseurl}}/img/20153.jpg)
