@@ -13,6 +13,7 @@ I am trying to improve my skills in other mediums as well, especially watercolou
 Pallet art for my French Mother
 ![]({{site.baseurl}}/img/french1.jpg)
 ![]({{site.baseurl}}/img/french2.jpg)
+![]({{site.baseurl}}/img/french3.jpg)
 
 Pallet art for my British Father
 ![]({{site.baseurl}}/img/eng1.jpg)
