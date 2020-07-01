@@ -2,7 +2,7 @@
 layout: post
 title:  Design In Daily Life
 date:   2018-11-23 16:04:00 +0300
-image:  logo.jpg
+image:  Logo.jpg
 tags:   Hobbies
 ---
 When inspiration strikes or I think of a perfect gift for someone, I love trying to find ways to bring my ideas into reality. I love woodworking and hope to have my own personal workshop one day. For now I enjoy struggling with pallet wood and hand tools on the ground if it still means I get to create.
