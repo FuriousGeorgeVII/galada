@@ -7,6 +7,9 @@ tags:   [Experience]
 ---
 B Mee Allied Health
 
+"Consultation with Client about arrangements for Gym/Offices for Allied Health Business that staffs Exercise Physiologists and Dietitians."
+
+
 Drafting Provisional Plans for Costing
 
 - Viewed Client's potential new office space and took initial reference photos and measurements.
