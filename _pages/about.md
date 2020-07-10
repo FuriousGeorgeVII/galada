@@ -16,4 +16,4 @@ I love design in all walks of life, whether it be through travelling the world a
 #### Travel
 <small>15 Countries and Counting</small>
 
-I am lucky enough to have the privilege of being able to travel and explore the world. I am always in awe of different landscapes, foods, architecture and culture that travelling lets me experience. I hope that through my life the number of counties I will visit will continuously grow and the experiences that I will have will forever be memorable. 
+I am lucky enough to have the privilege of being able to travel and explore the world. I am always in awe of different landscapes, foods, architecture and culture that travelling lets me experience. I hope that through my life the number of countries I will visit will continuously grow and the experiences that I will have will forever be memorable. 
