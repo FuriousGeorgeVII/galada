@@ -22,42 +22,42 @@ At the end of my education with this firm I was offered a full time position as 
  
  External Photos of Site Week-by-Week:
 
-![]({{site.baseurl}}/img/Week5.png)
+![]({{site.baseurl}}/img/Week5.jpg)
 
-![]({{site.baseurl}}/img/Week6.png)
+![]({{site.baseurl}}/img/Week6.jpg)
 
-![]({{site.baseurl}}/img/Week7.png)
+![]({{site.baseurl}}/img/Week7.jpg)
 
-![]({{site.baseurl}}/img/Week8.png)
+![]({{site.baseurl}}/img/Week8.jpg)
 
-![]({{site.baseurl}}/img/Week9.png)
+![]({{site.baseurl}}/img/Week9.jpg)
 
-![]({{site.baseurl}}/img/Week10.png)
+![]({{site.baseurl}}/img/Week10.jpg)
 
-![]({{site.baseurl}}/img/Week11.png)
+![]({{site.baseurl}}/img/Week11.jpg)
 
-![]({{site.baseurl}}/img/Week12.png)
+![]({{site.baseurl}}/img/Week12.jpg)
 
-![]({{site.baseurl}}/img/Week13.png)
+![]({{site.baseurl}}/img/Week13.jpg)
 
-![]({{site.baseurl}}/img/Week14.png)
+![]({{site.baseurl}}/img/Week14.jpg)
 
-![]({{site.baseurl}}/img/Week15.png)
+![]({{site.baseurl}}/img/Week15.jpg)
 
-![]({{site.baseurl}}/img/Week16.png)
+![]({{site.baseurl}}/img/Week16.jpg)
 
-![]({{site.baseurl}}/img/Week17.png)
+![]({{site.baseurl}}/img/Week17.jpg)
 
-![]({{site.baseurl}}/img/Week18.png)
+![]({{site.baseurl}}/img/Week18.jpg)
 
-![]({{site.baseurl}}/img/Week19.png)
+![]({{site.baseurl}}/img/Week19.jpg)
 
-![]({{site.baseurl}}/img/Week20.png)
+![]({{site.baseurl}}/img/Week20.jpg)
 
-![]({{site.baseurl}}/img/Week21.png)
+![]({{site.baseurl}}/img/Week21.jpg)
 
-![]({{site.baseurl}}/img/Week22.png)
+![]({{site.baseurl}}/img/Week22.jpg)
 
-![]({{site.baseurl}}/img/Week23.png)
+![]({{site.baseurl}}/img/Week23.jpg)
 
-![]({{site.baseurl}}/img/Week26.png)
+![]({{site.baseurl}}/img/Week26.jpg)
