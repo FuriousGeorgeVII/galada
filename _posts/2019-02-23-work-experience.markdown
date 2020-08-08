@@ -5,12 +5,11 @@ date:   2019-02-23 16:05:55 +0300
 image:  bmee.jpg
 tags:   [Experience]
 ---
-B Mee Allied Health
 
 "Consultation with Client about arrangements for Gym/Offices for Allied Health Business that staffs Exercise Physiologists and Dietitians."
 
 
-Drafting Provisional Plans for Costing
+Drafting Provisional Plans for Costing for B Mee Allied Health
 
 - Viewed Client's potential new office space and took initial reference photos and measurements.
 
